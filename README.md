@@ -89,7 +89,6 @@ I'm a Computer Science student at Birzeit University with a passion for **Machin
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laithamr05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laithamr05&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Laithamr05&theme=radical&hide_border=true&background=0D1117)
 
 </div>
 
