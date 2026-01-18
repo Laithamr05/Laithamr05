@@ -106,8 +106,8 @@ I'm a Computer Science student at Birzeit University with a passion for **Machin
 
 - 🌐 **Portfolio:** [laithamr05.github.io](https://laithamr05.github.io)
 - 💼 **LinkedIn:** [laithamro05](https://linkedin.com/in/laithamro05)
-- - 💼 **Email:** amrlaith05@gmail.com
-- 📧 Feel free to reach out for collaborations or opportunities!
+- 📧 **Email:** amrlaith05@gmail.com
+- Feel free to reach out for collaborations or opportunities!
 
 ---
 
