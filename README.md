@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student at Birzeit University with a passion for **Machine Learning**, **Deep Learning**, and **Full-Stack Development**. I enjoy building intelligent systems, APIs, and web applications that solve real-world problems.
+I'm a Computer Science student at Birzeit University with a passion for **Machine Learning**, **Deep Learning**, and **Full-Stack Development**. 
 
 ### 💻 Tech Stack
 
@@ -39,7 +39,6 @@ I'm a Computer Science student at Birzeit University with a passion for **Machin
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools & Others:**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
