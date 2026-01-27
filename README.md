@@ -32,11 +32,6 @@ I'm a Computer Science student at Birzeit University with a passion for Machine 
 
 ### AI & Machine Learning
 
-**[Abaad Contracting Management System](https://github.com/Laithamr05/Abaad-Contracting-Managment-System)**
-- Comprehensive Flask-based database management system
-- Manages projects, employees, clients, and suppliers
-- Analytics for building and solar projects
-  
 **[AI Dog Breed Recognition Project](https://github.com/Laithamr05/AI-Dog-Breed-Recognition-Project)**
 - Deep learning project for classifying pet images using pre-trained CNN architectures (ResNet, AlexNet, VGG16)
 - PyTorch-based implementation with dog breed prediction capabilities
@@ -63,7 +58,10 @@ I'm a Computer Science student at Birzeit University with a passion for Machine 
 - Handles users, products, and orders with secure authentication
 - Database migrations and automated testing
 
-
+**[Abaad Contracting Management System](https://github.com/Laithamr05/Abaad-Contracting-Managment-System)**
+- Comprehensive Flask-based database management system
+- Manages projects, employees, clients, and suppliers
+- Analytics for building and solar projects
 
 ---
 
