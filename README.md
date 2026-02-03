@@ -62,7 +62,12 @@ I'm a Computer Science student at Birzeit University with a passion for Machine 
 - Comprehensive Flask-based database management system
 - Manages projects, employees, clients, and suppliers
 - Analytics for building and solar projects
+- 
+### Personal Projects
 
+**[SQL Schema to UML](https://github.com/Laithamr05/SQL-Schema-to-UML)**
+- Creates a full UML diagram with realtions and details by giving him your SQL tables
+  
 ---
 
 ## Currently Learning
