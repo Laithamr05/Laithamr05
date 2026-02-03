@@ -47,7 +47,7 @@ I'm a Computer Science student at Birzeit University with a passion for Machine 
 - Features: resize, crop, convert, and manipulate images via HTTP requests
 - TypeScript implementation
 
-### E-Commerce & Backend Systems
+### Backend & FullStack Systems
 
 **[StoreFront Backend](https://github.com/Laithamr05/StoreFront-Backend)**
 - RESTful backend API for online storefront
