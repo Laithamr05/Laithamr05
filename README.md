@@ -67,10 +67,9 @@ I'm a Computer Science student at Birzeit University with a passion for Machine 
 
 ## Currently Learning
 
-- Advanced Deep Learning Architectures
+- Deep Learning Architectures
 - Cloud Computing & DevOps
-- Microservices Architecture
-- Advanced TypeScript Patterns
+- TypeScript Patterns
 
 ## Contact
 
