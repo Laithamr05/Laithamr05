@@ -1,7 +1,5 @@
 <p align="left">
-  <a href="https://github.com/Laithamr05">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2600&pause=900&color=4F8CC9&vCenter=true&width=520&lines=hey%2C+i'm+laith+%F0%9F%91%8B;cs+student+%40+birzeit;database+nerd;data+engineering+intern+'26" alt="typing intro">
-  </a>
+  <img src="./header.svg" alt="hey, i'm laith" width="540">
 </p>
 
 ### 🪩 about me

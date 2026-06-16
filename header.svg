@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" width="720" height="200">
+  <style>
+    .bubble { fill: #1f8fff; }
+    .text {
+      font: 600 34px -apple-system, "SF Pro Text", "Segoe UI", Inter, system-ui, sans-serif;
+      fill: #ffffff;
+      letter-spacing: 0.3px;
+    }
+    .reveal-rect {
+      animation: typing 4.5s steps(14, end) infinite;
+    }
+    @keyframes typing {
+      0%   { width: 0; }
+      45%  { width: 380px; }
+      90%  { width: 380px; }
+      100% { width: 0; }
+    }
+  </style>
+
+  <g>
+    <rect x="40" y="50" width="520" height="100" rx="50" class="bubble"/>
+    <path d="M 525 122 Q 540 150 575 158 Q 545 142 535 120 Z" class="bubble"/>
+  </g>
+
+  <defs>
+    <clipPath id="reveal">
+      <rect class="reveal-rect" x="70" y="40" height="120" width="0"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#reveal)">
+    <text x="80" y="113" class="text">hey, i'm laith</text>
+  </g>
+</svg>
