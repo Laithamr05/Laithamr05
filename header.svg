@@ -19,7 +19,7 @@
 
   <g>
     <rect x="40" y="50" width="520" height="100" rx="50" class="bubble"/>
-    <path d="M 525 122 Q 540 150 575 158 Q 545 142 535 120 Z" class="bubble"/>
+    <path d="M 75 122 Q 60 150 25 158 Q 55 142 65 120 Z" class="bubble"/>
   </g>
 
   <defs>
