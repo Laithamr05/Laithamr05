@@ -1,11 +1,13 @@
 <p align="left">
-  <img src="./header.svg" alt="hey, i'm laith" width="540">
+  <img src="./bubble.svg" alt="hey, i'm laith" width="540">
 </p>
 
 ### 🪩 about me
 
 - 🇵🇸 palestine, west bank
 - 💻 cs @ birzeit university
+- 🛢️ chronically obsessed with databases and clean schemas
+- ☕ runs on coffee + sql
 
 ### 🗂️ fav repos
 
@@ -26,10 +28,16 @@
 `node` `express` `flask` `react` `angular` `flutter`
 `git` `linux` `jupyter` `playwright` `vite`
 
+### 📚 currently
+
+- grinding the aws solutions architect course
+- finishing a udacity ml with tensorflow nanodegree
+- reading the postgres docs for fun (yes really)
+- looking for a data engineering internship for summer 2026
 
 ### 🌙 kudos
 
-feel free to fork or copy anything in my repos. 
+feel free to fork or copy anything in my repos. if it helped you learn something, that's the whole point. a quick credit is appreciated but not required.
 
 ### 📫 reach me
 
@@ -37,3 +45,4 @@ feel free to fork or copy anything in my repos.
 - 💼 [linkedin](https://linkedin.com/in/laithamro05)
 - 🌐 [portfolio](https://laithamr05.github.io)
 
+<sub>"programming is funzies" energy but with more sql joins</sub>
