@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./bubble.svg" alt="hey, i'm laith" width="540">
+  <img src="./chat.svg" alt="hey, i'm laith" width="480">
 </p>
 
 ### 🪩 about me
