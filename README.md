@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./messages.svg" alt="hey, i'm laith" width="400">
+  <img src="./imessage.svg" alt="hey, i'm laith" width="400">
 </p>
 
 ### 🪩 about me

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 130" width="420" height="130">
+  <style>
+    .bubble { fill: #1f8fff; }
+    .text {
+      font: 700 28px "Helvetica Neue", Helvetica, Arial, sans-serif;
+      fill: #ffffff;
+      letter-spacing: 0.2px;
+    }
+
+    .g1 { animation: vis1 9s infinite; }
+    .g2 { animation: vis2 9s infinite; }
+    .g3 { animation: vis3 9s infinite; }
+
+    .t1 { animation: type1 9s steps(15, end) infinite; }
+    .t2 { animation: type2 9s steps(20, end) infinite; }
+    .t3 { animation: type3 9s steps(14, end) infinite; }
+
+    @keyframes vis1 {
+      0%, 30%   { opacity: 1; }
+      33%, 100% { opacity: 0; }
+    }
+    @keyframes vis2 {
+      0%, 33%   { opacity: 0; }
+      36%, 63%  { opacity: 1; }
+      66%, 100% { opacity: 0; }
+    }
+    @keyframes vis3 {
+      0%, 66%   { opacity: 0; }
+      69%, 100% { opacity: 1; }
+    }
+
+    @keyframes type1 {
+      0%         { width: 0; }
+      11%        { width: 280px; }
+      33%, 100%  { width: 280px; }
+    }
+    @keyframes type2 {
+      0%, 33%    { width: 0; }
+      44%        { width: 360px; }
+      66%, 100%  { width: 360px; }
+    }
+    @keyframes type3 {
+      0%, 66%    { width: 0; }
+      77%        { width: 230px; }
+      100%       { width: 230px; }
+    }
+  </style>
+
+  <defs>
+    <clipPath id="c1"><rect class="t1" x="0" y="0" width="0" height="130"/></clipPath>
+    <clipPath id="c2"><rect class="t2" x="0" y="0" width="0" height="130"/></clipPath>
+    <clipPath id="c3"><rect class="t3" x="0" y="0" width="0" height="130"/></clipPath>
+  </defs>
+
+  <g class="g1">
+    <rect x="20" y="20" width="300" height="80" rx="40" class="bubble"/>
+    <path d="M 56 82 Q 42 108 14 116 Q 42 102 50 80 Z" class="bubble"/>
+    <g clip-path="url(#c1)">
+      <text x="42" y="68" class="text">hey, i'm laith 👋</text>
+    </g>
+  </g>
+
+  <g class="g2">
+    <rect x="20" y="20" width="380" height="80" rx="40" class="bubble"/>
+    <path d="M 56 82 Q 42 108 14 116 Q 42 102 50 80 Z" class="bubble"/>
+    <g clip-path="url(#c2)">
+      <text x="42" y="68" class="text">cs student @ birzeit</text>
+    </g>
+  </g>
+
+  <g class="g3">
+    <rect x="20" y="20" width="250" height="80" rx="40" class="bubble"/>
+    <path d="M 56 82 Q 42 108 14 116 Q 42 102 50 80 Z" class="bubble"/>
+    <g clip-path="url(#c3)">
+      <text x="42" y="68" class="text">building stuff</text>
+    </g>
+  </g>
+</svg>
