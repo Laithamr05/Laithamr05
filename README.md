@@ -34,5 +34,5 @@ feel free to fork or copy anything in my repos.
 
 - 📧 amrlaith05@gmail.com
 - 💼 [linkedin](https://linkedin.com/in/laithamro05)
-- 🌐 [portfolio](https://laithamr05.github.io](https://laithamro.vercel.app/)
+- 🌐 [portfolio](https://laithamro.vercel.app)
 
